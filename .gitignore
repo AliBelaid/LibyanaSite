@@ -1,3 +1,15 @@
+onj
+bin
+ *.db
+*.rdb
+*.rar
+*.rar
+cache/*
+onj
+.pack
+bin
+ *.db
+*.rdb
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -20,3 +32,4 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
